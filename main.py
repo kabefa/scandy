@@ -67,8 +67,6 @@ while a != "":
         röst("pancace every tuesday i smell the taste of pancace but i never eaten it before")
 
     elif a == "who is your enemy" or a == "do you have an enemy":
-
-
         röst("it is electrix we have always ben enemies")
 
     elif a == "f*** you":
